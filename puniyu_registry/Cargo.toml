@@ -20,7 +20,7 @@ futures = { workspace = true }
 puniyu_plugin_derive = { path = "../puniyu_derives/puniyu_plugin_derive" }
 puniyu_utils = { path = "../puniyu_utils" }
 puniyu_logger = { workspace = true }
-tokio-cron-scheduler = "0.14.0"
+tokio-cron-scheduler = "0.15.0"
 chrono-tz = "0.10.4"
 uuid = { version = "1.17.0", features = ["v4"] }
 tokio = "1.47.1"
